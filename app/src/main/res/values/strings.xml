@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OlaMundo</string>
+    <string name="enviar">Enviar</string>
+    <string name="texto_inicial">Texto Inicial</string>
+    <string name="selecionado">Selecionado</string>
+    <string name="radio_1">Radio 1</string>
+    <string name="radio_2">Radio 2</string>
+
+    <string-array name="opcoes">
+        <item>Opção 01</item>
+        <item>Opção 02</item>
+        <item>Opção 03</item>
+        <item>Opção 04</item>
+        <item>Opção 05</item>
+    </string-array>
+</resources>
