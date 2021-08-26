@@ -19,8 +19,7 @@
         android:layout_height="wrap_content"
         android:hint="@string/texto_inicial"
         android:inputType="number"
-        android:minHeight="48dp"
-        android:autofillHints="" />
+        android:minHeight="48dp" />
 
     <Spinner
         android:id="@+id/opcoesSp"
